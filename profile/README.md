@@ -7,19 +7,19 @@
 * 场景越来越多，差异越来越大，如何更有效管理大规模场景？
 * 如何能够沉淀，复用和迁移的解决方案，能够一次构建，各处使用，分享，传播？
 
-## who am I
+## 项目简介
 
 A declarative cloud-native process orchestration framework covering offline, near-line, and online scenarios.
 一个覆盖离线，近线，在线场景的声明式的云原生流程编排框架，助力快速，正确的搭建策略应用
 
-## 特点
+## 框架特点
 
 
 
-## 使用
+## 如何使用
 
 
-## 贡献
+## 加入贡献
 
 
 
