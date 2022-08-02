@@ -1,4 +1,4 @@
-# ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659434745739-ffa88bec-e362-4ba1-95ba-6b873a3f0d5c.png#clientId=u48b5bad2-fff4-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=u326cb212&margin=%5Bobject%20Object%5D&name=image.png&originHeight=167&originWidth=641&originalType=binary&ratio=1&rotation=0&showTitle=false&size=19367&status=done&style=none&taskId=u7fd8b14b-116e-4b29-a12d-464d2089226&title=)
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659434745739-ffa88bec-e362-4ba1-95ba-6b873a3f0d5c.png#clientId=u48b5bad2-fff4-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=u326cb212&margin=%5Bobject%20Object%5D&name=image.png&originHeight=167&originWidth=641&originalType=binary&ratio=1&rotation=0&showTitle=false&size=19367&status=done&style=none&taskId=u7fd8b14b-116e-4b29-a12d-464d2089226&title=)
 # 简介
 ## 定位
 对于一个数据策略型应用，一般需要多个子系统或者中间件来支持离线批量任务处理，近线流式任务处理，和在线实时请求，在现有架构中，三者割裂，支撑工具各有不同，服务运维和上层编程接口及操作方式各不相同，导致协同工作，运营维护，整体优化变得很困难，技术团队不得不花费大量人力和机器成本来维持系统运转，另一方面，数据策略类系统一个重要特点就是频繁变化，缺少灵活的策略编排能力及策略方案版本管理，分享，重建能力，导致应用开发，测试，部署都十分困难。
