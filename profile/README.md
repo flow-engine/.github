@@ -46,8 +46,9 @@
 # 快速安装体验
 详见： [安装指南](https://github.com/4pd-fl/flowengine-release) 
 # 和我们联系
-加入我们的官方微信群：
-在github上提issue：
+* 加入我们的官方微信群：
+  
+* 在github上提issue：https://github.com/4pd-fl/.github/issues
 # 加入贡献
 详见：
 repo结构简介 
