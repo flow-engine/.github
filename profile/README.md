@@ -3,7 +3,7 @@
 ## 定位
 对于一个数据策略型应用，一般需要多个子系统或者中间件来支持离线批量任务处理，近线流式任务处理，和在线实时请求，在现有架构中，三者割裂，支撑工具各有不同，服务运维和上层编程接口及操作方式各不相同，导致协同工作，运营维护，整体优化变得很困难，技术团队不得不花费大量人力和机器成本来维持系统运转，另一方面，数据策略类系统一个重要特点就是频繁变化，缺少灵活的策略编排能力及策略方案版本管理，分享，重建能力，导致应用开发，测试，部署都十分困难。
 
-**FloweEngine 是一个覆盖离线，近线，在线场景的声明式云原生的流程编排框架，支撑方案开发，应用管理全过程，旨在助力快速，正确的搭建策略应用。**
+**FloweEngine 是一个覆盖离线，近线，在线场景的声明式云原生的流程编排框架，支撑方案开发，应用管理全过程，旨在帮助快速，正确的搭建策略应用。**
 
 **其包含以下核心内容：**
 
@@ -26,23 +26,23 @@
 
 1）好上手 
 
-- 一致的可视化交互界面和开发接口，轻松完成pipeline的开发，部署，运行。
+- 一致的可视化交互界面和开发接口，轻松完成pipeline的开发，部署，运行
 
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659432901940-508c6865-daa8-482f-a45a-1c57685e2bc7.png#clientId=u48b5bad2-fff4-4&crop=0.1256&crop=0.1153&crop=1&crop=1&from=paste&height=597&id=u2e64a3a2&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1366&originWidth=2802&originalType=binary&ratio=1&rotation=0&showTitle=true&size=389611&status=done&style=none&taskId=u07f0b4b2-1e51-42bc-8380-3213f04dc8f&title=%E7%A6%BB%E7%BA%BF%E6%89%B9%E9%87%8F%E7%BC%96%E6%8E%92&width=1225 "离线批量编排")
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659432910918-1076b223-4385-4118-a210-a49dba788de7.png#clientId=u48b5bad2-fff4-4&crop=0.1174&crop=0.111&crop=1&crop=1&from=paste&height=612&id=uc417bc4d&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1386&originWidth=2820&originalType=binary&ratio=1&rotation=0&showTitle=true&size=426878&status=done&style=none&taskId=u4761db44-cf7a-46e8-9140-e91862b6c4c&title=%E5%9C%A8%E7%BA%BF%E5%AE%9E%E6%97%B6%E7%BC%96%E6%8E%92&width=1245 "在线实时编排")
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659432921819-01863c30-f09a-4737-afd0-bd67c0fafd65.png#clientId=u48b5bad2-fff4-4&crop=0.1207&crop=0.0611&crop=1&crop=1&from=paste&height=602&id=u509cbbbb&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1370&originWidth=2812&originalType=binary&ratio=1&rotation=0&showTitle=true&size=274645&status=done&style=none&taskId=uff8e412c-119b-4cde-ae11-58529f51a51&title=%E8%BF%91%E7%BA%BF%E6%B5%81%E5%BC%8F%E7%BC%96%E6%8E%92&width=1236 "近线流式编排")
 
-- 逻辑分层，学习曲线平缓，从使用方案到开发方案，从使用第三方资源到自己开发自定义资源，能够更好聚焦问题本身。
+- 逻辑分层，学习曲线平缓，从使用方案到开发方案，从使用第三方资源到自己开发自定义资源，能够更好聚焦问题本身
 
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659433297587-07323c8c-9a49-4362-a95f-c73bd07a320b.png#clientId=u48b5bad2-fff4-4&crop=0&crop=0.1019&crop=0.9785&crop=1&from=paste&height=671&id=u74ce8819&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1372&originWidth=2820&originalType=binary&ratio=1&rotation=0&showTitle=false&size=478173&status=done&style=none&taskId=u4c97ef3a-bd8a-44b5-b425-384b04ec529&title=&width=1380)
 
-- 业务场景内聚，纵向隔离，便于管理及业务差异化发展 。通过flowengine层的抽象，使得场景间相互独立，开发运维更加内聚，能够更好的在业务维护进行优化管理，减少相互影响以及引入不必要的信息过载。
+- 业务场景内聚，纵向隔离，便于管理及业务差异化发展 。通过flowengine层的抽象，使得场景间相互独立，开发运维更加内聚，能够更好的在业务维护进行优化管理，减少相互影响以及引入不必要的信息过载
 
 2）好维护
 
 - 通过整合在线，离线，近线编排，提升了基础设施的一致性并减少了服务数量
 - 基础设施和场景应用分离，方案版本化管理，支持导入导出，重建和迁移更容易
-- 云原生架构，两级负载管理，可以轻松根据业务特点完成弹性伸缩。
+- 云原生架构，两级负载管理，可以轻松根据业务特点完成弹性伸缩
 # 快速安装体验
 详见： [安装指南](https://github.com/4pd-fl/flowengine-release) 
 # 和我们联系
@@ -51,6 +51,7 @@
 * 在github上提issue：https://github.com/4pd-fl/.github/issues
 # 加入贡献
 详见：
-repo结构简介 
-如何编译打包 
+* repo结构简介 
+* 如何编译打包 
+
 A Open Source Project From 4paradigm.com
