@@ -47,7 +47,7 @@
 详见： [安装指南](https://github.com/4pd-fl/flowengine-release) 
 # 和我们联系
 * 加入我们的官方微信群：
-  
+  ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659592484664-36f51f94-2ab6-43ce-abd7-4dd2f9d07c2f.png)
 * 在github上提issue：https://github.com/4pd-fl/.github/issues
 # 加入贡献
 详见：
