@@ -1,6 +1,6 @@
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659434745739-ffa88bec-e362-4ba1-95ba-6b873a3f0d5c.png)
 
-English ｜ [中文](./README-cn.md)
+English ｜ [中文](/profile/README-cn.md)
 
 # Introduction
 ## Project positioning
@@ -52,7 +52,7 @@ see details： [Installation Guide](https://github.com/4pd-fl/flowengine-release
 # Contact us
 * Join our WeChat group：
   ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659592484664-36f51f94-2ab6-43ce-abd7-4dd2f9d07c2f.png)
-* issue on github：https://github.com/4pd-fl/.github/issues
+* issue on github：https://github.com/flow-engine/.github/issues
 # Contribute
 
 At present, the code base is being sorted out and will all be opened one after another...
