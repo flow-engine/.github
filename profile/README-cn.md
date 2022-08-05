@@ -61,5 +61,9 @@
 
 您可以提交issue或者进群讨论，共同推动项目发展
 
+# 许可证
+
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
 ---
 A Open Source Project From 4paradigm.com
