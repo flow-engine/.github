@@ -1,4 +1,7 @@
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659434745739-ffa88bec-e362-4ba1-95ba-6b873a3f0d5c.png)
+
+English ｜ [中文](./README-cn.md)
+
 # Introduction
 ## Project positioning
 For a data-driven application, multiple subsystems or middleware are generally required to support offline batch task processing, near-line streaming task processing, and online real-time requests. In the existing architecture, the three are separated and the supporting tools are different. Service operation and maintenance and upper-layer programming interfaces and operation methods are different, which makes it difficult to work collaboratively, operation and maintenance, and overall optimization. The technical team has to spend a lot of manpower and machine costs to maintain the system operation. An important feature of the system is frequent changes, lack of flexible strategy orchestration capabilities and strategy solution version management, sharing, and reconstruction capabilities, resulting in very difficult application development, testing, and deployment.
@@ -22,7 +25,7 @@ The key to developing data-driven scenario applications through flowengine is th
 As shown in the figure, the process of training an AI model to a service is an engine. The engine declares the operation logic of this process and exposes data and service interfaces to the outside world. FlowengineData connects to external business systems, completes data processing, and binds it to each scene engine. Different engines provide different external services, such as model inference services or recommendation services. Ultimately, together they form a complete scene service. Developing a scenario is the process of defining data flow and engine services, and completing the entire development process through declarative API or interface operations.
 ## Origin
 The framework originally originated from 4paradigm, and has developed from the end of 2017 to the present. From the initial MLOPS tool, to the delivery tool of AI scene projects, to the underlying support framework of the AI business system, it has gone through three stages, user group, From in-company delivery development, to product development, to customer developers, it continues to expand. At present, the commercial version is widely used by industry giants such as finance, retail, telecommunications, etc. Its user experience and stability have undergone the long-term test of its business, and it has also been accepted by developers. In order to better satisfy customers, enthusiasts understand and learn , Contribution, Fourth Paradigm decided to contribute it to the community, and make it better with the help of the community.
-# 框架特点
+# Project Highlight
 
 1）Easy to learn & use
 
