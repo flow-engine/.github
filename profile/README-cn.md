@@ -53,6 +53,7 @@
 <div align="left">
   <img src="https://cdn.nlark.com/yuque/0/2022/png/28211224/1659592484664-36f51f94-2ab6-43ce-abd7-4dd2f9d07c2f.png" width=25% title="wechat">
 </div>
+
 * 在github上提issue：https://github.com/flow-engine/.github/issues
 
 # 加入贡献
