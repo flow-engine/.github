@@ -48,7 +48,7 @@ The framework originally originated from 4paradigm, and has developed from the e
 - Cloud-native architecture, two-level load management, can easily achieve elastic scaling according to business characteristics
 
 # Quick Start
-see details： [Installation Guide](https://github.com/4pd-fl/flowengine-release) 
+see details： [Installation Guide](https://github.com/flow-engine/flowengine-release) 
 # Contact us
 * Join our WeChat group：
   ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659592484664-36f51f94-2ab6-43ce-abd7-4dd2f9d07c2f.png)
