@@ -57,9 +57,9 @@ see details： [Installation Guide](https://github.com/flow-engine/flowengine-re
 * Issue on github：https://github.com/flow-engine/.github/issues
 # Contribute
 
-At present, the code base is being sorted out and will all be opened one after another...
+Currently, the code is being sorted out, and it will be open soon！
 
-You can submit issues or join group discussions to jointly promote the development of the project
+You can submit issues or join group discussions to jointly promote the development of the project！
 
 ---
 A Open Source Project From 4paradigm.com
