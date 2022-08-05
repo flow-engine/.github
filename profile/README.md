@@ -61,5 +61,9 @@ Currently, the code is being sorted out, and it will be open soon！
 
 You can submit issues or join group discussions to jointly promote the development of the project！
 
+# License
+
+The code is released under the Apache License 2.0. You can use it in your own projects for 100% free.
+
 ---
 A Open Source Project From 4paradigm.com
