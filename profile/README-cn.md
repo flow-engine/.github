@@ -1,6 +1,6 @@
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659434745739-ffa88bec-e362-4ba1-95ba-6b873a3f0d5c.png)
 
-[English](./README.md) ｜ 中文
+[English](/profile/README.md) ｜ 中文
 
 # 简介
 ## 定位
