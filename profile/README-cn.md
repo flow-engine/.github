@@ -50,8 +50,10 @@
   ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659592484664-36f51f94-2ab6-43ce-abd7-4dd2f9d07c2f.png)
 * 在github上提issue：https://github.com/4pd-fl/.github/issues
 # 加入贡献
-详见：
-* repo结构简介 
-* 如何编译打包 
 
+目前代码库正在整理中，陆续将全部开放...
+
+您可以提交issue或者进群讨论，共同推动项目发展
+
+---
 A Open Source Project From 4paradigm.com
