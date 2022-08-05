@@ -47,11 +47,11 @@
 - 基础设施和场景应用分离，方案版本化管理，支持导入导出，重建和迁移更容易
 - 云原生架构，两级负载管理，可以轻松根据业务特点完成弹性伸缩
 # 快速安装体验
-详见： [安装指南](https://github.com/4pd-fl/flowengine-release) 
+详见： [安装指南](https://github.com/flow-engine/flowengine-release) 
 # 和我们联系
 * 加入我们的官方微信群：
   ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659592484664-36f51f94-2ab6-43ce-abd7-4dd2f9d07c2f.png)
-* 在github上提issue：https://github.com/4pd-fl/.github/issues
+* 在github上提issue：https://github.com/flow-engine/.github/issues
 # 加入贡献
 
 目前代码库正在整理中，陆续将全部开放...
