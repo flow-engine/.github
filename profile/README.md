@@ -39,7 +39,7 @@ The framework originally originated from 4paradigm, and has developed from the e
 
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659433297587-07323c8c-9a49-4362-a95f-c73bd07a320b.png)
 
-- ![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659432921819-01863c30-f09a-4737-afd0-bd67c0fafd65.png "Nearline streaming orchestration")
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/28211224/1659432921819-01863c30-f09a-4737-afd0-bd67c0fafd65.png "Nearline streaming orchestration")
 
 2）easy to maintenance
 
