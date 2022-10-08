@@ -52,7 +52,7 @@ see details： [Installation Guide](https://github.com/flow-engine/flowengine-re
 # Contact us
 * Join our WeChat group：
   <div align="left">
-  <img src="https://cdn.nlark.com/yuque/0/2022/png/28211224/1659592484664-36f51f94-2ab6-43ce-abd7-4dd2f9d07c2f.png" width=25% title="wechat">
+  <img src="https://cdn.nlark.com/yuque/0/2022/png/28211224/1665199291749-fc1e752a-3b81-4438-b68a-1471c899b41e.png" width=25% title="wechat">
   </div>
 * Issue on github：https://github.com/flow-engine/.github/issues
 # Contribute
